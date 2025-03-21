@@ -1,5 +1,5 @@
 {
-  "name": "poc",
+  "name": "@brt-innovation/poc",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "Prawee Wongsa <prawee@brtinnovation>",
   "license": "ISC",
-  "description": "",
+  "description": "A proof of concept for a React component library",
   "dependencies": {
     "@babel/cli": "^7.26.4",
     "@babel/core": "^7.26.10",
