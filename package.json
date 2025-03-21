@@ -1,6 +1,6 @@
 {
   "name": "@brt-innovation/poc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "scripts": {
     "build": "./node_modules/.bin/babel src --out-file index.js",
